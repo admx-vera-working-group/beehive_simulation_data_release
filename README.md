@@ -8,12 +8,18 @@ File names include a relevant cavity parameters, followed by their associated va
 
 Example: /beehive_haloscope_simulation_public_data/Figure_12/n169_R19.5_d38.5_r7.00_rerrormax0.01_x0_y0_rev0.txt describes a cavity with 169 cells, cell radii of 19.5 mm, cell separation of 38.5 mm, ideal rod radius of 7.00 mm, maximum rod radius variation of 0.01 mm, and rod position (0 mm, 0 mm). It is a simulation of the first .dxf generated for this geometric configuration. 
 
+## Data Availability
+We provide the data associated with each COMSOL simulation contained in this paper. Typically, this means a list of eigenfrequencies and their associated form factors, quality factors, and areas/volumes.
+
 Figures without data fall into four categories:
 
 1. The figure is a drawing or sketch with no associated data (Figs. 1 and 5).
 2. The figure shows a COMSOL-generated E-field; in case the image contained in the figure is the simulated data (Figs. 2, 6, 8, 14 [E-field insets], 18).
 3. The figure is an experiment summary; all associated data can be found by reading the referenced papers (Figs. 24, 25).
 4. The figure describes a calculation using data from other figures (Figs. 27, 28).
+
+## Contact
+Inquiries can be made by emailing Matthew O. Withers at withersm@stanford.edu.
 
 ## License
 This work is licensed under a Creative Commons Attribution 4.0 International License
