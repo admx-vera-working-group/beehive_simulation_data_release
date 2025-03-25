@@ -15,7 +15,7 @@ Figures without data fall into four categories:
 
 1. The figure is a drawing or sketch with no associated data (Figs. 1 and 5).
 2. The figure shows a COMSOL-generated E-field; in case the image contained in the figure is the simulated data (Figs. 2, 6, 8, 14 [E-field insets], 18).
-3. The figure is an experiment summary; all associated data can be found by reading the referenced papers (Figs. 24, 25).
+3. The figure is an experiment summary; all associated data can be found by reading the referenced papers (Figs. 24, 25, 26).
 4. The figure describes a calculation using data from other figures (Figs. 27, 28).
 
 ## Contact
